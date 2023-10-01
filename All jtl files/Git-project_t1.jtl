@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695805466017,2869,https://www.opencart.com/index.php?route=support/contact,200,OK,Thread Group 1-1,text,true,,21874,537,1,1,https://www.opencart.com/index.php?route=support%2Fcontact,2860,0,1213
+1695805479781,1100,https://www.opencart.com/index.php?route=account/login,200,OK,Thread Group 1-1,text,true,,12564,595,1,1,https://www.opencart.com/index.php?route=account%2Flogin,1093,0,0
+1695805484401,657,https://www.opencart.com/index.php?route=account/register,200,OK,Thread Group 1-1,text,true,,23092,598,1,1,https://www.opencart.com/index.php?route=account%2Fregister,647,0,0
+1695805493207,1217,https://www.opencart.com/index.php?route=cms/feature,200,OK,Thread Group 1-1,text,true,,32107,593,1,1,https://www.opencart.com/index.php?route=cms%2Ffeature,1171,0,0
+1695805498813,1240,https://www.opencart.com/index.php?route=marketplace/extension,200,OK,Thread Group 1-1,text,true,,62766,603,1,1,https://www.opencart.com/index.php?route=marketplace%2Fextension,713,0,0
+1695805465879,7083,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,152403,2926,1,1,null,6484,27093,1213
